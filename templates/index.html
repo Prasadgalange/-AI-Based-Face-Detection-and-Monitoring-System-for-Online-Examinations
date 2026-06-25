@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Monitoring System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #69a8e8;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+        }
+
+        .video-container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .video-feed {
+            width: 100%;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .video-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-size: 1.5rem;
+            text-align: center;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #2c3e50;
+        }
+
+        .status-panel {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 2rem;
+        }
+
+        .status-item {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background-color: #f8f9fa;
+        }
+
+        .alert {
+            margin-top: 1rem;
+        }
+
+        .question-container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 1rem;
+        }
+
+        .option-btn {
+            width: 100%;
+            text-align: left;
+            margin: 5px 0;
+            padding: 10px;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            background-color: #fff;
+            transition: all 0.3s ease;
+        }
+
+        .option-btn:hover {
+            background-color: #f8f9fa;
+        }
+
+        .option-btn.selected {
+            background-color: #e9ecef;
+            border-color: #0d6efd;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            display: none;
+        }
+
+        .feedback.correct {
+            background-color: #d4edda;
+            color: #155724;
+            display: block;
+        }
+
+        .feedback.incorrect {
+            background-color: #f8d7da;
+            color: #721c24;
+            display: block;
+        }
+
+        .submit-container {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        .results-container {
+            display: none;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-top: 2rem;
+        }
+
+        .score-display {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #0d6efd;
+            margin: 1rem 0;
+        }
+
+        .stop-button {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+
+        /* Premium single-color background active during face detection */
+        body.monitoring-active {
+            background-color: #121212 !important;
+            color: #e0e0e0 !important;
+            transition: background-color 0.5s ease, color 0.5s ease;
+        }
+
+        body.monitoring-active .video-container,
+        body.monitoring-active .status-panel,
+        body.monitoring-active .question-container,
+        body.monitoring-active .results-container {
+            background-color: #1e1e1e !important;
+            color: #e0e0e0 !important;
+            border: 1px solid #333;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+            transition: all 0.5s ease;
+        }
+
+        body.monitoring-active .option-btn {
+            background-color: #2b2b2b !important;
+            color: #e0e0e0 !important;
+            border: 1px solid #444;
+        }
+
+        body.monitoring-active .option-btn:hover {
+            background-color: #3a3a3a !important;
+        }
+
+        body.monitoring-active .option-btn.selected {
+            background-color: #0d6efd !important;
+            border-color: #0d6efd !important;
+            color: #fff !important;
+        }
+
+        body.monitoring-active .status-item {
+            background-color: #2b2b2b !important;
+        }
+
+        body.monitoring-active .header h1,
+        body.monitoring-active .header .lead {
+            color: #ffffff !important;
+        }
+    </style>
+</head>
+
+<body class="monitoring-active">
+    <button class="btn btn-danger btn-lg stop-button" onclick="stopSystem()">Stop System</button>
+
+    <div class="container">
+        <div class="header">
+            <h1>Exam Monitoring System</h1>
+            <p class="lead">Real-time face detection monitoring</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div class="video-container">
+                    <img src="{{ url_for('video_feed') }}" class="video-feed" alt="Video Feed">
+                    <div class="video-overlay" id="video-overlay">
+                        <div>
+                            <h3>System Stopped</h3>
+                            <p>Face detection has been stopped. You can close this window.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Face Registration Card -->
+                <div class="question-container" id="registration-container">
+                    <h3>Face Registration</h3>
+                    <p class="text-muted">Before you begin the exam, please look directly into the camera and click
+                        <strong>Register Face</strong> below to verify your identity.
+                        Note: 1)make sure your camera are stady.
+                        2)after that you can't change the background.if you change you will be faild the exam.
+                    </p>
+                    <div class="text-center py-3">
+                        <button class="btn btn-success btn-lg px-4" onclick="registerFace(event)">Register Face</button>
+                    </div>
+                    <div id="registration-alert" class="alert d-none my-2"></div>
+                </div>
+
+                <div class="question-container d-none" id="exam-questions-container">
+                    <h3>Exam Questions</h3>
+                    {% for question in questions %}
+                    <div class="question mb-4" data-question-id="{{ question.id }}">
+                        <h5>Question {{ question.id }}: {{ question.question }}</h5>
+                        <div class="options">
+                            {% for option in question.options %}
+                            <button class="option-btn" onclick="selectAnswer({{ question.id }}, '{{ option }}', event)">
+                                {{ option }}
+                            </button>
+                            {% endfor %}
+                        </div>
+                        <div class="feedback" id="feedback-{{ question.id }}"></div>
+                    </div>
+                    {% endfor %}
+
+                    <div class="submit-container">
+                        <button class="btn btn-primary btn-lg" onclick="submitExam()">Submit Exam</button>
+                    </div>
+                </div>
+
+                <div class="results-container" id="results-container">
+                    <h3>Exam Results</h3>
+                    <div class="score-display">
+                        Score: <span id="score">0</span>%
+                    </div>
+                    <p>Correct Answers: <span id="correct-answers">0</span> out of <span id="total-questions">0</span>
+                    </p>
+                    <div class="alert alert-info">
+                        <p>Your exam has been submitted successfully. All monitoring data has been saved.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="status-panel">
+                    <h3>Monitoring Status</h3>
+                    <div class="status-item">
+                        <h5>Identity Matching</h5>
+                        <p id="face-status">Waiting for registration...</p>
+                    </div>
+                    <div class="alert alert-info">
+                        <small>Press 'q' to quit the monitoring session</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let statusInterval = null;
+
+        function startStatusPolling() {
+            if (statusInterval) clearInterval(statusInterval);
+            statusInterval = setInterval(() => {
+                fetch('/get_status')
+                    .then(response => response.json())
+                    .then(data => {
+                        const statusEl = document.getElementById('face-status');
+                        if (statusEl) {
+                            statusEl.textContent = data.status;
+                            statusEl.className = data.class;
+                        }
+                    })
+                    .catch(err => console.error('Error fetching status:', err));
+            }, 1000);
+        }
+
+        function stopStatusPolling() {
+            if (statusInterval) {
+                clearInterval(statusInterval);
+                statusInterval = null;
+            }
+        }
+
+        function registerFace(event) {
+            const btn = event.target;
+            btn.disabled = true;
+            const originalText = btn.textContent;
+            btn.textContent = 'Registering Face...';
+
+            const alertDiv = document.getElementById('registration-alert');
+            alertDiv.className = 'alert d-none';
+
+            fetch('/register_face', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        alertDiv.textContent = data.message;
+                        alertDiv.className = 'alert alert-success d-block';
+
+                        // Unlock exam and hide registration after a small delay
+                        setTimeout(() => {
+                            document.getElementById('registration-container').classList.add('d-none');
+                            document.getElementById('exam-questions-container').classList.remove('d-none');
+                            document.getElementById('face-status').textContent = 'Verified / Monitoring';
+                            startStatusPolling();
+                        }, 1200);
+                    } else {
+                        alertDiv.textContent = data.message;
+                        alertDiv.className = 'alert alert-danger d-block';
+                        btn.disabled = false;
+                        btn.textContent = originalText;
+                    }
+                })
+                .catch(err => {
+                    alertDiv.textContent = 'An error occurred during registration. Please make sure your camera is connected.';
+                    alertDiv.className = 'alert alert-danger d-block';
+                    btn.disabled = false;
+                    btn.textContent = originalText;
+                });
+        }
+
+        function selectAnswer(questionId, answer, event) {
+            // Remove selected class from all options in this question
+            const questionDiv = document.querySelector(`.question[data-question-id="${questionId}"]`);
+            questionDiv.querySelectorAll('.option-btn').forEach(btn => {
+                btn.classList.remove('selected');
+            });
+
+            // Add selected class to clicked option
+            event.target.classList.add('selected');
+
+            // Submit answer
+            fetch('/submit_answer', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    question_id: questionId,
+                    answer: answer
+                })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    const feedbackDiv = document.getElementById(`feedback-${questionId}`);
+                    feedbackDiv.textContent = data.message;
+                    feedbackDiv.className = 'feedback ' + (data.correct ? 'correct' : 'incorrect');
+                });
+        }
+
+        function submitExam() {
+            fetch('/submit_exam', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        stopStatusPolling();
+                        // Remove background focus styling
+                        document.body.classList.remove('monitoring-active');
+
+                        // Show results
+                        document.getElementById('results-container').style.display = 'block';
+                        document.getElementById('score').textContent = data.score.toFixed(1);
+                        document.getElementById('correct-answers').textContent = data.correct_answers;
+                        document.getElementById('total-questions').textContent = data.total_questions;
+
+                        // Disable question buttons
+                        document.querySelectorAll('.option-btn').forEach(btn => {
+                            btn.disabled = true;
+                        });
+
+                        // Show video overlay
+                        document.getElementById('video-overlay').style.display = 'flex';
+
+                        // Update status
+                        document.getElementById('face-status').textContent = 'Stopped';
+
+                        // Scroll to results
+                        document.getElementById('results-container').scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+        }
+
+        function stopSystem() {
+            if (confirm('Are you sure you want to stop the system? This will end the exam session.')) {
+                fetch('/stop_detection', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            stopStatusPolling();
+                            // Remove background focus styling
+                            document.body.classList.remove('monitoring-active');
+
+                            // Show video overlay
+                            document.getElementById('video-overlay').style.display = 'flex';
+
+                            // Update status
+                            document.getElementById('face-status').textContent = 'Stopped';
+
+                            // Disable all buttons
+                            document.querySelectorAll('button').forEach(btn => {
+                                btn.disabled = true;
+                            });
+
+                            // Show alert
+                            alert('System has been stopped. You can close this window.');
+                        }
+                    });
+            }
+        }
+    </script>
+</body>
+
+</html>

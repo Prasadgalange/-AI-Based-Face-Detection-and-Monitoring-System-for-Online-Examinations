@@ -1,0 +1,35 @@
+{
+    "start_time": "2026-06-16 17:53:07",
+    "face_detections": [
+        {
+            "timestamp": "2026-06-16 17:53:22",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781612602.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 17:53:30",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781612610.jpg"
+        }
+    ],
+    "status": "completed",
+    "answers": {
+        "1": {
+            "answer": "Paris",
+            "correct": true,
+            "timestamp": "2026-06-16 17:53:38"
+        },
+        "2": {
+            "answer": "Mars",
+            "correct": true,
+            "timestamp": "2026-06-16 17:53:40"
+        },
+        "3": {
+            "answer": "4",
+            "correct": true,
+            "timestamp": "2026-06-16 17:53:41"
+        }
+    },
+    "end_time": "2026-06-16 17:53:42",
+    "score": 100.0
+}

@@ -1,0 +1,673 @@
+{
+    "start_time": "2025-06-16 21:29:10",
+    "face_detections": [
+        {
+            "timestamp": "2025-06-16 21:29:11",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089551.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089561.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089562.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:22",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089563.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:23",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089564.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:24",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089565.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:25",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089566.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:26",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:27",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089567.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089568.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:28",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:29",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089569.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:30",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089570.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:31",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089571.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:32",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089572.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:33",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089573.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        },
+        {
+            "timestamp": "2025-06-16 21:29:34",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1750089574.jpg"
+        }
+    ],
+    "eye_movements": [
+        {
+            "timestamp": "2025-06-16 21:29:11",
+            "dx": 

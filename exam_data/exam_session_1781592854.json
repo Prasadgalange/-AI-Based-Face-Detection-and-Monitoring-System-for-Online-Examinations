@@ -1,0 +1,79 @@
+{
+    "start_time": "2026-06-16 12:24:14",
+    "face_detections": [
+        {
+            "timestamp": "2026-06-16 12:24:14",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592854.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592856.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:19",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592859.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:21",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592861.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592864.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:26",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592866.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:29",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592869.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:34",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592874.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:39",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592879.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:44",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592884.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592886.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:24:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592889.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:25:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592904.jpg"
+        },
+        {
+            "timestamp": "2026-06-16 12:25:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781592907.jpg"
+        }
+    ],
+    "status": "completed",
+    "answers": {},
+    "end_time": "2026-06-16 12:25:19",
+    "score": 0.0
+}

@@ -1,0 +1,49 @@
+
+[2026-06-17 09:33:12] ALERT: No face detected!
+[2026-06-17 09:33:17] ALERT: No face detected!
+[2026-06-17 09:33:35] ALERT: Background activity detected! (Ratio: 0.338)
+[2026-06-17 09:33:37] ALERT: Background activity detected! (Ratio: 0.105)
+[2026-06-17 09:33:40] ALERT: Background activity detected! (Ratio: 0.427)
+[2026-06-17 09:33:42] ALERT: Background activity detected! (Ratio: 0.549)
+[2026-06-17 09:33:45] ALERT: Background activity detected! (Ratio: 0.362)
+[2026-06-17 09:33:47] ALERT: Multiple faces detected!
+[2026-06-17 09:33:50] ALERT: Multiple faces detected!
+[2026-06-17 09:33:52] ALERT: Background activity detected! (Ratio: 0.308)
+[2026-06-17 09:33:55] ALERT: Background activity detected! (Ratio: 0.302)
+[2026-06-17 09:33:58] ALERT: Background activity detected! (Ratio: 0.381)
+[2026-06-17 09:34:00] ALERT: Background activity detected! (Ratio: 0.363)
+[2026-06-17 09:34:03] ALERT: Background activity detected! (Ratio: 0.339)
+[2026-06-17 09:34:05] ALERT: Background activity detected! (Ratio: 0.351)
+[2026-06-17 09:34:08] ALERT: Background activity detected! (Ratio: 0.344)
+[2026-06-17 09:34:10] ALERT: Background activity detected! (Ratio: 0.355)
+[2026-06-17 09:35:45] ALERT: Background activity detected! (Ratio: 0.171)
+[2026-06-17 09:36:00] ALERT: Background activity detected! (Ratio: 0.504)
+[2026-06-17 09:36:02] ALERT: Background activity detected! (Ratio: 0.311)
+[2026-06-17 09:36:05] ALERT: Background activity detected! (Ratio: 0.347)
+[2026-06-17 09:36:07] ALERT: Background activity detected! (Ratio: 0.154)
+[2026-06-17 09:36:10] ALERT: Background activity detected! (Ratio: 0.220)
+[2026-06-17 09:36:13] ALERT: Background activity detected! (Ratio: 0.106)
+[2026-06-17 09:36:15] ALERT: Background activity detected! (Ratio: 0.120)
+[2026-06-17 09:36:18] ALERT: Background activity detected! (Ratio: 0.184)
+[2026-06-17 09:36:20] ALERT: Background activity detected! (Ratio: 0.225)
+[2026-06-17 09:36:23] ALERT: Background activity detected! (Ratio: 0.202)
+[2026-06-17 09:53:53] ALERT: No face detected!
+[2026-06-17 09:53:56] ALERT: No face detected!
+[2026-06-17 09:53:59] ALERT: No face detected!
+[2026-06-17 09:54:01] ALERT: No face detected!
+[2026-06-17 09:54:04] ALERT: No face detected!
+[2026-06-17 09:54:06] ALERT: No face detected!
+[2026-06-17 09:54:09] ALERT: No face detected!
+[2026-06-17 09:54:11] ALERT: No face detected!
+[2026-06-17 09:54:14] ALERT: No face detected!
+[2026-06-17 09:54:44] ALERT: No face detected!
+[2026-06-17 09:54:47] ALERT: No face detected!
+[2026-06-17 09:54:49] ALERT: No face detected!
+[2026-06-17 09:54:52] ALERT: No face detected!
+[2026-06-17 09:55:48] ALERT: No face detected!
+[2026-06-17 09:55:50] ALERT: No face detected!
+[2026-06-17 09:55:53] ALERT: No face detected!
+[2026-06-17 09:55:55] ALERT: No face detected!
+[2026-06-17 09:56:46] ALERT: Multiple faces detected!
+[2026-06-17 09:57:11] ALERT: Background activity detected! (Ratio: 0.065)
+[2026-06-17 09:57:27] ALERT: Face verification failed! (Similarity: 0.441)

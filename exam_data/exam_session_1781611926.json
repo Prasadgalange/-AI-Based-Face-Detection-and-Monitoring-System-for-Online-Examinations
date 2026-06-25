@@ -1,0 +1,24 @@
+{
+    "start_time": "2026-06-16 17:42:06",
+    "face_detections": [],
+    "status": "completed",
+    "answers": {
+        "1": {
+            "answer": "Paris",
+            "correct": true,
+            "timestamp": "2026-06-16 17:43:26"
+        },
+        "2": {
+            "answer": "Mars",
+            "correct": true,
+            "timestamp": "2026-06-16 17:43:27"
+        },
+        "3": {
+            "answer": "4",
+            "correct": true,
+            "timestamp": "2026-06-16 17:43:28"
+        }
+    },
+    "end_time": "2026-06-16 17:43:55",
+    "score": 100.0
+}

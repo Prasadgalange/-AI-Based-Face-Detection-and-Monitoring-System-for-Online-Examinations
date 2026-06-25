@@ -1,0 +1,1120 @@
+{
+    "start_time": "2026-06-15 12:09:43",
+    "face_detections": [
+        {
+            "timestamp": "2026-06-15 12:09:44",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505584.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:45",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505585.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505586.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:47",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505587.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:48",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505588.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:49",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505589.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:50",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505590.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:51",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505591.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:52",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505592.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:53",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505593.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:54",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505594.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:55",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505595.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:56",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505596.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:57",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505597.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:58",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505598.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:09:59",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505599.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:00",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505600.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:01",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505601.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:02",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505602.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:02",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505602.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:03",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505603.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:04",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505604.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:05",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505605.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:05",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505605.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:05",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505605.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:05",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505605.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:05",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505605.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:06",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505606.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:07",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505607.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:08",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505608.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:09",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505609.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:09",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505609.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:10",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505610.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:12",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505612.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:12",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505612.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:12",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505612.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:12",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505612.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:12",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505612.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:13",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505613.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:14",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505614.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:14",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505614.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:14",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505614.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:15",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505615.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:15",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505615.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505616.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505616.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505616.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505616.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:16",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505616.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:17",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505617.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:17",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505617.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:18",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505618.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:18",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505618.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:19",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505619.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:19",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505619.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:20",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505620.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:20",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505620.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "multiple_faces",
+            "image_path": "exam_logs/multiple_faces_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:21",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505621.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:22",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505622.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:22",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505622.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:22",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505622.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:22",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505622.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:22",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505622.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:23",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505623.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:23",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505623.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:23",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505623.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505624.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505624.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505625.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505625.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:26",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505626.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:30",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505630.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:30",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505630.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:30",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505630.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:31",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505631.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:31",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505631.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505632.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505632.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505633.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505633.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505633.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:34",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505634.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:36",
+            "status": "unmatched_face",
+            "image_path": "exam_logs/unmatched_face_1781505636.jpg"
+        },
+        {
+            "timestamp": "2026-06-15 12:10:37",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781505637.jpg"
+        }
+    ],
+    "status": "completed",
+    "answers": {
+        "1": {
+            "answer": "Paris",
+            "correct": true,
+            "timestamp": "2026-06-15 12:10:32"
+        },
+        "2": {
+            "answer": "Mars",
+            "correct": true,
+            "timestamp": "2026-06-15 12:10:33"
+        },
+        "3": {
+            "answer": "4",
+            "correct": true,
+            "timestamp": "2026-06-15 12:10:37"
+        }
+    },
+    "end_time": "2026-06-15 12:10:40",
+    "score": 100.0
+}

@@ -1,0 +1,250 @@
+{
+    "start_time": "2026-06-13 11:46:22",
+    "face_detections": [
+        {
+            "timestamp": "2026-06-13 11:46:22",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331382.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:23",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331383.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:24",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331384.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331385.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331385.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331385.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331385.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:25",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331385.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:31",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331391.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:32",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331392.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:33",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331393.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:34",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331394.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:34",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331394.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        },
+        {
+            "timestamp": "2026-06-13 11:46:46",
+            "status": "no_face",
+            "image_path": "exam_logs/no_face_1781331406.jpg"
+        }
+    ],
+    "status": "completed",
+    "answers": {
+        "1": {
+            "answer": "Berlin",
+            "correct": false,
+            "timestamp": "2026-06-13 11:46:51"
+        }
+    },
+    "end_time": "2026-06-13 11:47:05",
+    "score": 0.0
+}
